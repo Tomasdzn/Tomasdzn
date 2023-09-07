@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomasdzn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React/Three.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
